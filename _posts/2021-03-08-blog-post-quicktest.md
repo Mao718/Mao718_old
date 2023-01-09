@@ -1,0 +1,3 @@
+# Summary of [Prototypical Networks for Few-shot Learning](https://arxiv.org/abs/1703.05175)
+
+Prototypical networks learn a metric space. In such space, classification can be performed by computing distances to prototype representations of each class. Moreover, they give the experiment of comparison between l2 and cosine distance with the same model setting to show that choosing the good distance matrix can be vital. They conjecture the main reason is primarily due to cosine distance not being a Bregman divergence.

@@ -1,5 +1,4 @@
-Here you can say lots of fun things about your site.
+Master student wants to share and discuss deep learning idea.
 
-Maybe say a some things about yourself.
-testing
-[Or maybe what you plan to blog about.](https://www.google.com/)
+This blog will mainly share the things I'm interested in. Maybe the summary of the paper, learning record, or code implementation.  
+If there are any errors please let me know.
